@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="1200" height="400" alt="知心心理健康智能体平台" src="https://img.shields.io/badge/知心-心理健康智能体平台-FF6B6B?style=for-the-badge&logo=heart&logoColor=white" />
+  <img width="1200" height="400" alt="知心心理健康智能体平台" src="zhixin_banner.png" />
   
   <h1>💝 知心 - 您的心理健康智能体平台</h1>
   
